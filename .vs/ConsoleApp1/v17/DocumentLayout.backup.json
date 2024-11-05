@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E804D034-E87B-43A5-9249-32A49605BEA4}|basamak_sayisi\\basamak_sayisi.csproj|c:\\users\\enes\\source\\repos\\consoleapp1\\basamak_sayisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E804D034-E87B-43A5-9249-32A49605BEA4}|basamak_sayisi\\basamak_sayisi.csproj|solutionrelative:basamak_sayisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC63FC44-AF8A-4972-839E-FA48C747127E}|fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj|c:\\users\\enes\\source\\repos\\consoleapp1\\fakt\u00F6riyelbul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC63FC44-AF8A-4972-839E-FA48C747127E}|fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj|solutionrelative:fakt\u00F6riyelbul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC63FC44-AF8A-4972-839E-FA48C747127E}|fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj|c:\\users\\enes\\source\\repos\\consoleapp1\\fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FC63FC44-AF8A-4972-839E-FA48C747127E}|fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj|solutionrelative:fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{662F8C29-E84E-49BC-A715-9523D2FEADCE}|kactekkaccift\\kactekkaccift.csproj|c:\\users\\enes\\source\\repos\\consoleapp1\\kactekkaccift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662F8C29-E84E-49BC-A715-9523D2FEADCE}|kactekkaccift\\kactekkaccift.csproj|solutionrelative:kactekkaccift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\fakt\u00F6riyelbul\\Program.cs",
-              "RelativeDocumentMoniker": "fakt\u00F6riyelbul\\Program.cs",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\fakt\u00F6riyelbul\\Program.cs",
-              "RelativeToolTip": "fakt\u00F6riyelbul\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:09:45.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fakt\u00F6riyelbul",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj",
-              "RelativeDocumentMoniker": "fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj",
-              "RelativeToolTip": "fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-05T14:09:43.243Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\basamak_sayisi\\Program.cs",
-              "RelativeDocumentMoniker": "basamak_sayisi\\Program.cs",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\basamak_sayisi\\Program.cs",
-              "RelativeToolTip": "basamak_sayisi\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\kactekkaccift\\Program.cs",
+              "RelativeDocumentMoniker": "kactekkaccift\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\kactekkaccift\\Program.cs",
+              "RelativeToolTip": "kactekkaccift\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:07:43.677Z",
+              "WhenOpened": "2024-11-05T14:50:44.413Z",
               "EditorCaption": ""
             }
           ]

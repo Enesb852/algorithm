@@ -1,0 +1,15 @@
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\bin\Debug\net8.0\kactekkaccift.exe
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\bin\Debug\net8.0\kactekkaccift.deps.json
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\bin\Debug\net8.0\kactekkaccift.runtimeconfig.json
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\bin\Debug\net8.0\kactekkaccift.dll
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\bin\Debug\net8.0\kactekkaccift.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.AssemblyInfo.cs
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.sourcelink.json
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.dll
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\refint\kactekkaccift.dll
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\kactekkaccift.genruntimeconfig.cache
+C:\Users\Enes\source\repos\ConsoleApp1\kactekkaccift\obj\Debug\net8.0\ref\kactekkaccift.dll

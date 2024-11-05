@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("enkucukdegeribul")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("kactekkaccift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1109a0dac1848efd07eaf60fed646e7d71e76860")]
-[assembly: System.Reflection.AssemblyProductAttribute("enkucukdegeribul")]
-[assembly: System.Reflection.AssemblyTitleAttribute("enkucukdegeribul")]
+[assembly: System.Reflection.AssemblyProductAttribute("kactekkaccift")]
+[assembly: System.Reflection.AssemblyTitleAttribute("kactekkaccift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
