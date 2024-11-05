@@ -1,0 +1,15 @@
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\bin\Debug\net8.0\basamak_sayisi.exe
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\bin\Debug\net8.0\basamak_sayisi.deps.json
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\bin\Debug\net8.0\basamak_sayisi.runtimeconfig.json
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\bin\Debug\net8.0\basamak_sayisi.dll
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\bin\Debug\net8.0\basamak_sayisi.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.AssemblyInfo.cs
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.sourcelink.json
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.dll
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\refint\basamak_sayisi.dll
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\basamak_sayisi.genruntimeconfig.cache
+C:\Users\Enes\source\repos\ConsoleApp1\basamak_sayisi\obj\Debug\net8.0\ref\basamak_sayisi.dll

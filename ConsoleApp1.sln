@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enkucukdegeribul", "ConsoleApp1\enkucukdegeribul.csproj", "{5D717F26-027A-4947-8226-83AC52941EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktöriyelbul", "faktöriyelbul\faktöriyelbul.csproj", "{FC63FC44-AF8A-4972-839E-FA48C747127E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "faktöriyelbul", "faktöriyelbul\faktöriyelbul.csproj", "{FC63FC44-AF8A-4972-839E-FA48C747127E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basamak_sayisi", "basamak_sayisi\basamak_sayisi.csproj", "{E804D034-E87B-43A5-9249-32A49605BEA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FC63FC44-AF8A-4972-839E-FA48C747127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC63FC44-AF8A-4972-839E-FA48C747127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC63FC44-AF8A-4972-839E-FA48C747127E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E804D034-E87B-43A5-9249-32A49605BEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E804D034-E87B-43A5-9249-32A49605BEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E804D034-E87B-43A5-9249-32A49605BEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E804D034-E87B-43A5-9249-32A49605BEA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

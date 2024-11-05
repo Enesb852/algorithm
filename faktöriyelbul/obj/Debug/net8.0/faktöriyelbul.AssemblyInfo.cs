@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("faktöriyelbul")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462062678e39611383fa2db56decc0582a08578a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e3624faf521bbbe599d907be66cfc53b164383")]
 [assembly: System.Reflection.AssemblyProductAttribute("faktöriyelbul")]
 [assembly: System.Reflection.AssemblyTitleAttribute("faktöriyelbul")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
