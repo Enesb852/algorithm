@@ -1,0 +1,15 @@
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\enkucukdegeribul.exe
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\enkucukdegeribul.deps.json
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\enkucukdegeribul.runtimeconfig.json
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\enkucukdegeribul.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\enkucukdegeribul.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.AssemblyInfo.cs
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.sourcelink.json
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\enkucukdegeribul.dll
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\enkucukdegeribul.genruntimeconfig.cache
+C:\Users\Enes\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\enkucukdegeribul.dll

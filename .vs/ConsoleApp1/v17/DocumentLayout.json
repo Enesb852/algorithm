@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D717F26-027A-4947-8226-83AC52941EB7}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\enes\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D717F26-027A-4947-8226-83AC52941EB7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC63FC44-AF8A-4972-839E-FA48C747127E}|fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj|c:\\users\\enes\\source\\repos\\consoleapp1\\fakt\u00F6riyelbul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC63FC44-AF8A-4972-839E-FA48C747127E}|fakt\u00F6riyelbul\\fakt\u00F6riyelbul.csproj|solutionrelative:fakt\u00F6riyelbul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,19 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\fakt\u00F6riyelbul\\Program.cs",
+              "RelativeDocumentMoniker": "fakt\u00F6riyelbul\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes\\source\\repos\\ConsoleApp1\\fakt\u00F6riyelbul\\Program.cs",
+              "RelativeToolTip": "fakt\u00F6riyelbul\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:53:25.451Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-05T12:56:26.173Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

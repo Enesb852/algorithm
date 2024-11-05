@@ -1,0 +1,15 @@
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\bin\Debug\net8.0\faktöriyelbul.exe
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\bin\Debug\net8.0\faktöriyelbul.deps.json
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\bin\Debug\net8.0\faktöriyelbul.runtimeconfig.json
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\bin\Debug\net8.0\faktöriyelbul.dll
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\bin\Debug\net8.0\faktöriyelbul.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.AssemblyInfo.cs
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.sourcelink.json
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.dll
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\refint\faktöriyelbul.dll
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.pdb
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\faktöriyelbul.genruntimeconfig.cache
+C:\Users\Enes\source\repos\ConsoleApp1\faktöriyelbul\obj\Debug\net8.0\ref\faktöriyelbul.dll
